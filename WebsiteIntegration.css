@@ -1,0 +1,97 @@
+.bg-container{
+	background-image: url("https://www.shutterstock.com/image-photo/top-down-food-images-hd-260nw-2351246713.jpg");
+	height: 110vh;
+	background-size: cover;
+	margin: 10px;
+	}
+	.card{
+		text-align: center;
+		background-image: url("https://thumbs.dreamstime.com/b/assorted-indian-recipes-food-various-spices-rice-wooden-table-92742528.jpg");
+		margin: 25px;
+		padding: 10px;
+		background-size: cover;
+	}
+ .main-heading{
+	color:#f54433;
+	font-style:italic;
+}
+.paragraph{
+	color:black;
+}
+.button{
+	height: 35px;
+	width: 125px;
+	background-color: #76c740;
+	color: white;
+	border-radius: 25px;
+	border-width: 2px;
+}
+
+
+.food-bg-container{
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQfF9nf0TLujVbfvfeND5vT1vqZlxysgXBg&usqp=CAU");
+	height: 100vh;
+	background-size: cover;
+	padding: 10px;
+	}
+	.fav-food-heading{
+		color: white;
+		font-size: 28px;
+		font-family: 'roboto';
+		font-weight: bold;
+		padding: 20px;
+	}
+	.food-cards{
+		background-color: #edd4af;
+		border-radius: 8px;
+		padding: 8px;
+		margin:15px;
+	}
+	.food-cards-heading{
+		color: #0f0e46;
+		font-family: 'roboto';
+		font-weight: bold;
+		font-size: 25px;
+		
+	}
+	.food-cards-des{
+		color: #0f0e46;
+		font-family: 'roboto';
+		font-size: 13px;
+	}
+	.food-cards-img{
+		width:80px;
+		height:100px;
+	}
+	
+	
+	.layout-container{
+	background-image: url("https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-101282760/101282760.jpg");
+	background-size: cover;
+	height: 250vh;
+	padding: 20px;
+}
+.layout-container-heading{
+	color: white;
+	font-size: 25px;
+	font-family: Roboto;
+	font-weight: bold;
+	padding: 24px;
+}
+.detailed-view-card-container{
+	background-color: white;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	margin: 24px;
+	}
+.detailed-view-card-heading{
+	 color: grey;
+	 padding: 20px;
+}
+.detailed-view-card-description{
+	font-family: Roboto;
+	font-size: 24px;
+	color: grey;
+	padding: 18px;
